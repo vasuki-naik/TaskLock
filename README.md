@@ -79,6 +79,7 @@ python task_lock.py
 
 Developed with ❤️ by Vasuki Naik
 Open to feedback and contributions!
+
 📜 License
 
 This project is licensed under the MIT License.
